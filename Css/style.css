@@ -4,9 +4,9 @@
     box-sizing: border-box;
     font-family: 'Cairo', sans-serif;}
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;600&display=swap');
-/* body{
+body{
     overflow: hidden;
-} */
+}
 #home{
     background-image: url(../Img/events-heavenly-header.jpg);
     height: 660px;
